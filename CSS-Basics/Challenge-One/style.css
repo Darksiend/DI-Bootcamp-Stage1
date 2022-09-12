@@ -1,0 +1,20 @@
+body {
+  background: blue;
+}
+
+.sonnet {
+  width: 100%;
+}
+
+.sonnet ul {
+  text-align: center;
+  list-style: none;
+}
+
+.sonnet li {
+  display: inline-block;
+}
+
+li:first-letter {
+  font-size: 200%;
+}
